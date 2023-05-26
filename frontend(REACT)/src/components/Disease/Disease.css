@@ -1,0 +1,15 @@
+.elements{
+color:green;
+margin: 10px;
+}
+.causes{
+    display: flex;
+    flex-direction: column;
+   
+
+}
+.output{
+    border: 2px solid black;
+    width:70vw
+    
+}
